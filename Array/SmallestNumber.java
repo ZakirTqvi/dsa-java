@@ -1,6 +1,6 @@
 package Array;
 
-import java.util.*;
+
 
 class SmallestNumber {
     public static int getSmaller(int numbers[]){
